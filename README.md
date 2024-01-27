@@ -5,7 +5,7 @@ This course gives an overview of relational database management systems (RDBMS's
 
 Topics:
 1. Relational Data Analysis:
-  - Writing, debugging, and simplifying SQL DQL queries
+    - Writing, debugging, and simplifying SQL DQL queries
   - Connecting to and querying a relational database from application code
   - Analysing query performance empirically and within the I/O model of computation in order to select appropriate indexes to accelerate the query
 2. Data Modelling:
